@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error and its solution. The error arises when attempting to access a property that might be missing from an object.  The solution showcases how to correctly handle optional properties using the optional property syntax. This example is useful for learning about optional properties and type safety in TypeScript.
